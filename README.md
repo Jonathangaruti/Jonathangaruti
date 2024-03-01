@@ -6,9 +6,8 @@
 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNASP<br/>
 🎓 Bacharelado em Administração pela UNIESP<br/>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathangaruti&size_weight=0.5&count_weight=0.5)
 ![Jonathan Garuti GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathangaruti&show_icons=true&theme=tokyonight)
-
 
 ### Principais tecnologias 
 
