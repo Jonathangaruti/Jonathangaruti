@@ -2,9 +2,9 @@
 
 ### Um pouco sobre mim
 
-💻 Estudando na Generation Brasil como Pessoa Desenv. Java Full Stack Jr.
-💻 Estudante de Análise e Desenvolvimento de Sistemas na UNASP
-🎓 Bacharelado em Administração pela UNIESP
+💻 Estudando na Generation Brasil como Pessoa Desenv. Java Full Stack Jr.<br/>
+💻 Estudante de Análise e Desenvolvimento de Sistemas na UNASP<br/>
+🎓 Bacharelado em Administração pela UNIESP<br/>
 
 
 ![Jonathan Garuti GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathangaruti&show_icons=true&theme=tokyonight)
