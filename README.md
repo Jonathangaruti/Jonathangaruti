@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Jonathan 🙋‍♂️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathangaruti/)
-
-# Um pouco sobre mim
+### Um pouco sobre mim
 
 💻 Estudando na Generation Brasil como Pessoa Desenv. Java Full Stack Jr.
 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNASP
@@ -12,7 +10,7 @@
 ![Jonathan Garuti GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathangaruti&show_icons=true&theme=tokyonight)
 
 
-## Principais tecnologias 
+### Principais tecnologias 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,5 +23,5 @@
 </div><br/>
 
 
-## Contato
+### Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathangaruti/)
