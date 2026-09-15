@@ -1,6 +1,6 @@
 # Jonathan Garuti da Rocha
 
-**Analista de Infraestrutura · Linux · Virtualização · Monitoramento · Automação**
+**Analista de Infraestrutura · Linux · Virtualização · Monitoramento · Automação com Ansible, Python e Bash**
 
 Analista de Infraestrutura , atuando na sustentação de ambientes corporativos em
 produção: administração de servidores Linux, virtualização, backup, monitoramento e
