@@ -2,7 +2,7 @@
 
 **Analista de Infraestrutura · Linux · Virtualização · Monitoramento · Automação**
 
-Analista de Infraestrutura há 4 anos, atuando na sustentação de ambientes corporativos em
+Analista de Infraestrutura , atuando na sustentação de ambientes corporativos em
 produção: administração de servidores Linux, virtualização, backup, monitoramento e
 troubleshooting. Meu trabalho é manter esses ambientes disponíveis, estáveis e previsíveis —
 o que passa por gestão de incidentes, gestão de mudanças, análise de causa raiz e por
